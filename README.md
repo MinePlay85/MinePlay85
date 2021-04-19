@@ -5,3 +5,4 @@ I'm MinePlay85 and i'm currently working on:
 - intaller of PteroBilling.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MinePlay85&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinePlay85&show_icons=true&theme=dark)
