@@ -1,7 +1,7 @@
 ### Hello There !
 
 I'm MinePlay85 and i'm currently working on:
-- Pterobilling
+- Pterobilling: [PteroBilling Discord Server] (https://discord.gg/EjHe3QpJjd)
 - intaller of PteroBilling.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MinePlay85&show_icons=true&theme=dark)
